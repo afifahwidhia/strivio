@@ -21,9 +21,9 @@ https://afifah-widhia-strivio.pbp.cs.ui.ac.id/
 Client (Browser)
      │
      ▼
- urls.py  →  views.py  →  models.py
-     │          │
-     │          └────> proses logika & pengambilan data
+ urls.py  →  views.py  ←→  models.py
+     │          
+     │          
      │
      ▼
  Template HTML  <── context (data dari views)
