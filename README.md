@@ -118,4 +118,8 @@ JSON lebih populer dibandingkan XML karena:
 ## Feedback Tutorial 2
 Penjelasannya sudah jelas dan mudah diikuti. Namun, jika memungkinkan, akan lebih baik jika bagian terkait file HTML seperti `main.html` dan template lainnya dijelaskan sedikit lebih detail. Hal ini akan membantu memahami struktur dan peran masing-masing file HTML dalam keseluruhan proyek.
 
-## Contoh Pengujian Postman
+## Postman
+<img width="1470" height="956" alt="Screenshot 2025-09-17 at 07 16 45" src="https://github.com/user-attachments/assets/28e10530-c951-4fdb-9de8-70ab25812cf3" />
+<img width="1470" height="956" alt="Screenshot 2025-09-17 at 07 16 23" src="https://github.com/user-attachments/assets/8dead57c-0167-41af-a916-77149721fcc2" />
+<img width="1470" height="956" alt="Screenshot 2025-09-17 at 07 15 52" src="https://github.com/user-attachments/assets/959d2d62-7d6e-4c41-ab90-845e8800d079" />
+<img width="1470" height="956" alt="Screenshot 2025-09-17 at 07 15 20" src="https://github.com/user-attachments/assets/70bc90ab-9f25-43b3-8fe4-b1f5d5b3eccb" />
