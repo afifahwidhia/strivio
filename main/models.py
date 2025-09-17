@@ -18,12 +18,5 @@ class Product(models.Model):
     stock = models.PositiveIntegerField(default=0)
     
     def __str__(self):
-        return self.title
+        return self.name
     
-    @property
-    def is_news_hot(self):
-        return self.news_views > 20
-        
-    def increment_views(self):
-        self.news_views += 1
-        self.save()
