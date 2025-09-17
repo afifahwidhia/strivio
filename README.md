@@ -3,7 +3,7 @@
 ## Link Aplikasi
 https://afifah-widhia-strivio.pbp.cs.ui.ac.id/
 
-## Tugas Individu 1
+## Tugas Individu 2
 ## Step by Step Implementasi
 1. Membuat project baru di PWS.
 2. Membuat direktori baru di git dan lokal.
@@ -63,7 +63,7 @@ Django cocok dijadikan framework awal karena memiliki konsep batteries included 
 ## Feedback Tutorial 1
 Menurut saya, asisten dosen pada tutorial 1 sudah menjelaskan materi dengan cukup runtut dan membantu mahasiswa memahami alur kerja Django dari awal hingga praktik langsung. Penyampaian yang sistematis memudahkan mengikuti setiap langkah, mulai dari struktur proyek, peran file utama, hingga proses migrasi database.
 
-## Tugas Indisidu 2
+## Tugas Individu 3
 ## Step by Step Implementasi
 1. **Membuat Model**  
    Pertama, saya membuat model bernama **`Product`** di file `models.py` untuk merepresentasikan data produk yang akan digunakan.  
@@ -86,7 +86,6 @@ Menurut saya, asisten dosen pada tutorial 1 sudah menjelaskan materi dengan cuku
 7. **Melakukan Commit dan Push**  
    Terakhir, setelah semua fitur berhasil diimplementasikan, saya melakukan **commit** terhadap perubahan tersebut dan melakukan **push** ke repository GitHub untuk menyimpan dan membagikan hasil implementasi proyek.
 
-
 ## Mengapa perlu data delivery?
 Data delivery diperlukan untuk menghubungkan backend dan frontend atau layanan lain. Dengan mengirim data dalam format standar seperti JSON/XML, platform dapat:
 
@@ -102,7 +101,6 @@ JSON lebih populer dibandingkan XML karena:
 2. Lebih ringan, tidak memerlukan tag pembuka dan penutup yang kompleks.  
 3. Didukung luas oleh framework dan bahasa pemrograman modern, terutama untuk pengembangan web berbasis API.  
 4. Kinerja parsing lebih cepat, yang penting untuk aplikasi real-time dan layanan berbasis web.  
-
 
 ## Fungsi `is_valid()` pada Django form
 * Memvalidasi input pengguna sesuai field & aturan validator.
