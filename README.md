@@ -108,7 +108,7 @@ JSON lebih populer dibandingkan XML karena:
 * Menyediakan `cleaned_data` jika valid.
 * Membantu menampilkan error ke pengguna jika ada kesalahan input.
 
-### Alasan penggunaan `{% csrf_token %}`
+## Alasan penggunaan `{% csrf_token %}`
 * Mencegah CSRF (Cross-Site Request Forgery).
 * Token ini diverifikasi server untuk memastikan request POST berasal dari form sah.
 * Tanpa token, penyerang bisa memanfaatkan sesi pengguna untuk mengirim permintaan berbahaya (misalnya menghapus data).
